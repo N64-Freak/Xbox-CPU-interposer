@@ -12,7 +12,7 @@ It's compatible with every motherboard revision of the original Xbox but you wan
 
 ## Useability
 The CPU upgraded boards have a LOT more processing power compared to the stock 733Mhz CPU of the original xbox.
-Downside of this is that retail games need to be patched to run at normal speeds again.
+\Downside of this is that retail games need to be patched to run at normal speeds again.
 Some games need to be patched others don't.
 The Patching Software is found in the "Software" tab.
 
