@@ -25,5 +25,29 @@ Here's a list of tested CPUs:
   
 Basically any Socket 370 Pentium 3 with 133Mhz FSB will work. The tualatin core CPUs are recommended as the heatspreader allows for easier heatsink attachment and they have 512kKB Level 2 Cache!
 
-## Necessary Components
+## SMD Components
+You can buy the components from the vendor of your choice. 
+
+| Reference | Qty | Description | Part Number | Manufacturer | Digikey part number |  
+| --- | --- | --- | --- | --- | --- |  
+| R6 | 1 | Res 0Ohm, 0603 |  |  |  |  
+| RN1 | 1 | Res 1KOhm, 0603x4 |  |  |  |  
+| R2, R8 | 2 | Res 1KOhm, 0603 |  |  |  |  
+| C5 | 1 | Cap 1nF, 0603 |  |  |  |  
+| C45 | 1 | Cap 1uF, 0603 |  |  |  |  
+| C14,C15,C16,C17,C19,C20,C23,C33,C34,C37,C38,C42 | 12 | Cap 4.7uF, 0805 |  |  |  |  
+| C3,C4 | 2 | Cap 10pF, 0603 |  |  |  |  
+| C7 | 1 | Cap 10uF, 0805 |  |  |  |  
+| R5 | 1 | Res 15Ohm, 0603 |  |  |  |  
+| R1 | 1 | Res 33Ohm, 0603 |  |  |  |  
+| R7 | 1 | Res 100Ohm, 0603 |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  
+ 
 
