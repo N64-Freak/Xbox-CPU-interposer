@@ -1,14 +1,14 @@
 # Xbox-CPU-interposer
 This is the documentation for the 1,4ghz CPU upgrade for the original Xbox.
-It is not meant as a Step-by-Step guide to perform the upgrade but to document the necessary details to do the upgrade yourself.
 
 ## ---WARNING---
-You should be comfortable with BGA rework or at least know how to work with BGA components.
-And it should also not be your first time soldering small smd components!
+* You should be comfortable with BGA rework or at least know how to work with BGA components.
+* And it should also not be your first time soldering small smd components!
 
 ## Compatibility:
-The CPU upgrade is compatible with every Xbox revision out there.
-But it is recommended to use a rev1.0 up to a rev1.4 as these console revisions have the ability to use 128mb Ram.
+It's compatible with every motherboard revision of the original Xbox but you want a rev1.0 - rev1.4 for a couple reasons:
+* Rev 1.5 doesn't exist!
+* Rev 1.6 can't be upgraded to 128mb Ram!
 
 ## Useability
 The CPU upgraded boards have a LOT more processing power compared to the stock 733Mhz CPU of the original xbox.
