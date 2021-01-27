@@ -1,4 +1,4 @@
-# Required Tools
+# Required Tools and parts
 For the upgrade you should have good tools to suceed. Specially good soldering equipment and a steady hand!
 You will need:
 * BGA Rework station (alternatively a Hot-air Station and a preheater)
@@ -14,6 +14,7 @@ But because they get expensiver i recommend to use a 1000Mhz or 1200Mhz CPU to p
   
 Here's a list of tested CPUs:
 | SSPEC Number | Clock speed | Cache |  
+| --- | --- | --- |  
 | SL5XL | 1400Mhz |  512Kb |  
 | SL6BY | 1400Mhz |  512Kb |  
 | SL5VX | 1333Mhz |  256Kb |  
