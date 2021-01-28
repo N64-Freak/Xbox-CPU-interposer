@@ -52,10 +52,12 @@ You can buy the components from the vendor of your choice.
 ## Starting the install
 First thing to do is reball the CPU Adapter. You need The 0.76mm leaded solder balls, flux and the reball stecil.  
 Not going into details how to reball such a pcb here. You should be able to find instructional videos for it on youtube.  
+<img src="./Images/IMG4947.jpg" alt="removed CPU" width="100%"/>  
 
 ## Remove the original CPU
 First thing to do on the motherboard is to fire up your bga rework station and remove the original CPU.  
 Clean the remaining solder off the motherboard using solder wick and flux. After a cleanup you should have a nice and tidy looking board.
 The final result should look like this:  
+<img src="./Images/IMG_4949.jpg" alt="reballed" width="100%"/>  
 
 
