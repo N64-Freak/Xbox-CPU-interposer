@@ -95,6 +95,9 @@ That's up to you!
 ## Install the CPU
 Now on to the most important step of soldering the CPU itself. Get your solder paste out and add a drop to every single of the 370 solder pad for the CPU.  
 Then position the CPU on there and get back to your bga rework station and get it soldered down.  
+  
+Note: Once the CPU is installed you can test the motherboard!  
+  
 When done it should look like this:  
 <p align="center">
 <img width="300" height="352" src="./../Images/IMG_4954.jpg">
@@ -108,5 +111,24 @@ Note: The system will NOT underclock the cpu.
 The cpu speed in XBMC will allways show the true clockspeed of 1400MHz!
 
 <p align="center">
-<img width="300" height="132" src="./../Images/VCC_wiring.png">
+<img width="450" height="199" src="./../Images/VCC_wiring.png">
 </p> 
+
+## Common errors
+If your system doesn’t boot up there is a problem with most likely either a component or your soldering.  
+The most common error would be the FRAG which means flashing red and green.  
+The system restarts 2 times and then flashes red and green.  
+This error indicates a general hardware problem and as we just replaced the cpu you can take a guess which component it is.  
+  
+Reasons could be:  
+-Defective CPU  
+-Wrong cpu core voltage setting  
+-Cold solder joint between adapter and motherboard or cpu and adapter  
+  
+Another error is the console flashing orange with the fans turned up to 100% instantly after power on.  
+This error is a problem with either a defective cpu or a cold solder joint on the address or data lines of the cpu.  
+To summarize it all one could say if it doesn’t boot up at the first try your chances are slim to get the console to work.  
+The best you can do is inspect the solder points and rework any that look dodgy or are visually not connected.
+
+
+
