@@ -21,3 +21,10 @@ The Patching Software is found in the "Software" tab.
 * More processing power for emulation
 * Not everyone has one of them!
 * It's like the ultimate mod you can do to an Xbox
+
+## Now you want to build one yourself?
+If you want to build one yourself hit me up and i can offer you one or a couple of the interposer boards.  
+I do have stock in Germany and the US so shipping won't take long if you are in the US.
+Contact me at N64freak@gmx.de
+
+
