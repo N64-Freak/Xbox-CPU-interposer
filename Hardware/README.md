@@ -23,7 +23,8 @@ Here's a list of tested CPUs:
 | SL5VX | 1200Mhz |  256Kb |  
 | ... | ... | ... |  
   
-Basically any Socket 370 Pentium 3 with 133Mhz FSB will work. The tualatin core CPUs are recommended as the heatspreader allows for easier heatsink attachment and they have 512kKB Level 2 Cache!
+Basically any Socket 370 Pentium 3 with 133Mhz FSB will work.  
+The tualatin core CPUs are recommended as the heatspreader allows for easier heatsink attachment and they have 512kKB Level 2 Cache!
 
 ## SMD Components
 You can buy the components from the vendor of your choice. 
@@ -31,24 +32,26 @@ NOTE: If you have a Rev1.2-1.4 you need to bu an extra 1.5Kohm 0603 resistor to 
 
 | Reference | Qty | Description | Part Number | Manufacturer | Digikey part number |  
 | --- | --- | --- | --- | --- | --- |  
-| R6 | 1 | Res 0Ohm, 0603 |  |  |  |  
+| R6 | 1 | Res 0Ohm, 0603 | RC0603FR-070RL | Yageo | 311-0.0HRCT-ND |  
 | RN1 | 1 | Res 1KOhm, 0603x4 |  |  |  |  
-| R2, R8 | 2 | Res 1KOhm, 0603 |  |  |  |  
-| C5 | 1 | Cap 1nF, 0603 |  |  |  |  
-| C45 | 1 | Cap 1uF, 0603 |  |  |  |  
-| C14-C17,C19,C20,C23,C33,C34,C37,C38,C42 | 12 | Cap 4.7uF, 0805 |  |  |  |  
-| C3,C4 | 2 | Cap 10pF, 0603 |  |  |  |  
-| C7 | 1 | Cap 10uF, 0805 |  |  |  |  
-| R5 | 1 | Res 15Ohm, 0603 |  |  |  |  
-| R1 | 1 | Res 33Ohm, 0603 |  |  |  |  
-| R7 | 1 | Res 100Ohm, 0603 |  |  |  |  
-| C1,C2,C6,C8-C13,C18,C21,C22,C24-C32,C35,C36,C39-C41,C43,C44,C46 | 29 | Cap 100nF, 0603 |  |  |  |  
-| R3 | 1 | Res 330Ohm, 0603 |  |  |  |  
-| R4 | 1 | Res 470Ohm, 0603 |  |  |  |  
-| D1 | 1 | LED Green, 0603 |  |  |  |  
-| U2 | 1 | IC NC7SZ32, SOT23-5 |  |  |  |  
-| U1 | 1 | IC NC7WZ07, SC70 |  |  |  |  
-| OSC1 | 1 | OSC SG3030B |  |  |  |  
+| R2, R8 | 2 | Res 1KOhm, 0603 | ESR03EZPJ102 | Rohm | RHM1.0KDCT-ND |  
+| C5 | 1 | Cap 1nF, 0603 | C0603C102K4RECAUTO | Kemet | 399-17878-1-ND |  
+| C45 | 1 | Cap 1uF, 0603 | CL10A105KA8NNNC | Samsung | 1276-1102-1-ND |  
+| C14-C17,C19,C20,C23,C33,C34,C37,C38,C42 | 12 | Cap 4.7uF, 0805 | CL21A475KAQNNNE | Samsung | 1276-1244-1-ND |  
+| C3,C4 | 2 | Cap 10pF, 0603 | 06035A100JAT2A | AVX | 478-1163-1-ND |  
+| C7 | 1 | Cap 10uF, 0805 | CL21A106KOQNNNG | Samsung | 1276-6455-1-ND |  
+| R5 | 1 | Res 15Ohm, 0603 | RNCP0603FTD15R0 | Stackpole | RNCP0603FTD15R0CT-ND |  
+| R1 | 1 | Res 33Ohm, 0603 | CRGCQ0603J33R | TE | A130082CT-ND |  
+| R7 | 1 | Res 100Ohm, 0603 | RT0603DRD07100RL | Yageo | 311-100DCT-ND  |  
+| C1,C2,C6,C8-C13,C18,C21,C22,C24-C32,C35,C36,C39-C41,C43,C44,C46 | 29 | Cap 100nF, 0603 | CL10B104KB8NNNL | Samsung | 1276-CL10B104KB8NNNLCT-ND |  
+| R3 | 1 | Res 330Ohm, 0603 | RC0603JR-07330RL | Yageo | 311-330GRCT-ND |  
+| R4 | 1 | Res 470Ohm, 0603 | RC0603JR-07470RL | Yageo | 311-470GRCT-ND  |  
+| D1 | 1 | LED Green, 0603 | LTST-C191KGKT | Lite-On | 160-1446-1-ND |  
+| U2 | 1 | IC NC7SZ32, SOT23-5 | NC7SZ32M5X | ON-Semiconductor | NC7SZ32M5XCT-ND |  
+| U1 | 1 | IC NC7WZ07, SC70 | NC7WZ07P6X | ON-Semiconductor | NC7WZ07P6XCT-ND |  
+| OSC1 | 1 | OSC SG3030B | SG-3030JC 32.7680KB0: ROHS | Epson | SER4329CT-ND |  
+| R2E8 | 1 | Res 1.5Kohm, 0603 |  RC0603FR-071K5L  | Yageo |  311-1.50KHRCT-ND  |  
+
  
 ## Starting the install
 First thing to do is reball the CPU Adapter. You need The 0.76mm leaded solder balls, flux and the reball stecil.  
