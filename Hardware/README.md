@@ -27,6 +27,7 @@ Basically any Socket 370 Pentium 3 with 133Mhz FSB will work. The tualatin core 
 
 ## SMD Components
 You can buy the components from the vendor of your choice. 
+NOTE: If you have a Rev1.2-1.4 you need to bu an extra 1.5Kohm 0603 resistor to set the CPU core voltage!  
 
 | Reference | Qty | Description | Part Number | Manufacturer | Digikey part number |  
 | --- | --- | --- | --- | --- | --- |  
@@ -68,11 +69,44 @@ The result should look like this:
 
 ## Setting the CPU core voltage
 As the new CPU is running at a lower core voltage it has to be adjusted.  
----Don't forget about this step or you CPU might get damaged on the first startup!---
+---Don't forget about this step or you CPU might get damaged on the first startup!---  
 Only a few changes have to be done to the resistors on the xbox console. Choose the correct image for the revision of your console.  
   
+<p align="center">
 <img width="400" height="276" src="./../Images/voltage_1011.png">
+</p> 
+<p align="center">
 <img width="400" height="300" src="./../Images/voltage_1214.png">
+</p> 
 
+## Installing the Adapter
+Next step is firing up your bga rework station again and solder in the CPU interposer board.  
+Not much info here as you should know how to operate your rework station.  
 
+<p align="center">
+<img width="254" height="300" src="./../Images/IMG_4950.jpg">
+</p> 
 
+## Installing the SMD components
+With the Adapter soldered on it's time to install all the smd components from the BOM above.  
+You can install all off them at once or just the parts that will be below the cpu once installed.  
+That's up to you!
+
+## Install the CPU
+Now on to the most important step of soldering the CPU itself. Get your solder paste out and add a drop to every single of the 370 solder pad for the CPU.  
+Then position the CPU on there and get back to your bga rework station and get it soldered down.  
+When done it should look like this:  
+<p align="center">
+<img width="300" height="352" src="./../Images/IMG_4954.jpg">
+</p> 
+
+## Connecting power to the Adapter
+The performance reduction circuit needs external power to work which has to be fed in externally.   Therefore 2 additional wires need to be attached to the cpu adapter.  
+Connect the wires between the marked points and the system will be able to reduce the power to 50% of the maximum performance.  
+  
+Note: The system will NOT underclock the cpu.  
+The cpu speed in XBMC will allways show the true clockspeed of 1400MHz!
+
+<p align="center">
+<img width="300" height="132" src="./../Images/VCC_wiring.png">
+</p> 
