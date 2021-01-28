@@ -44,10 +44,18 @@ You can buy the components from the vendor of your choice.
 | C1,C2,C6,C8-C13,C18,C21,C22,C24-C32,C35,C36,C39-C41,C43,C44,C46 | 29 | Cap 100nF, 0603 |  |  |  |  
 | R3 | 1 | Res 330Ohm, 0603 |  |  |  |  
 | R4 | 1 | Res 470Ohm, 0603 |  |  |  |  
-| D1 | 1 | LED Blue, 0603 |  |  |  |  
-|  |  |  |  |  |  |  
-|  |  |  |  |  |  |  
-|  |  |  |  |  |  |  
-|  |  |  |  |  |  |  
+| D1 | 1 | LED Green, 0603 |  |  |  |  
+| U2 | 1 | IC NC7SZ32, SOT23-5 |  |  |  |  
+| U1 | 1 | IC NC7WZ07, SC70 |  |  |  |  
+| OSC1 | 1 | OSC SG3030B |  |  |  |  
  
+## Starting the install
+First thing to do is reball the CPU Adapter. You need The 0.76mm leaded solder balls, flux and the reball stecil.  
+Not going into details how to reball such a pcb here. You should be able to find instructional videos for it on youtube.  
+
+## Remove the original CPU
+First thing to do on the motherboard is to fire up your bga rework station and remove the original CPU.  
+Clean the remaining solder off the motherboard using solder wick and flux. After a cleanup you should have a nice and tidy looking board.
+The final result should look like this:  
+
 
