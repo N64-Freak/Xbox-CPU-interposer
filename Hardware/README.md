@@ -54,17 +54,28 @@ First thing to do is reball the CPU Adapter. You need The 0.76mm leaded solder b
 Not going into details how to reball such a pcb here. You should be able to find instructional videos for it on youtube.  
   
 <p align="center">
-  <img width="504" height="378" src="./../Images/IMG4947.jpg">
+  <img width="504" height="378" src="./../Images/IMG_4949.jpg">
 </p> 
 
 ## Remove the original CPU
 First thing to do on the motherboard is to fire up your bga rework station and remove the original CPU.  
 Clean the remaining solder off the motherboard using solder wick and flux. After a cleanup you should have a nice and tidy looking board.
-The final result should look like this:  
+The result should look like this:  
   
 <p align="center">
-  <img width="378" height="452" src="./../Images/IMG_4949.jpg">
+  <img width="378" height="452" src="./../Images/IMG4947.jpg">
 </p> 
 
+## Setting the CPU core voltage
+As the new CPU is running at a lower core voltage it has to be adjusted.  
+---Don't forget about this step or you CPU might get damaged on the first startup!---
+Only a few changes have to be done to the resistors on the xbox console. Choose the correct image for the revision of your console.  
+  
+<p align="left">
+  <img width="710" height="491" src="./../Images/voltage_1011.png">
+</p> 
+<p align="left">
+  <img width="1008" height="756" src="./../Images/voltage_1214.png">
+</p> 
 
 
