@@ -24,7 +24,7 @@ The Patching Software is found in the "Software" tab.
 
 ## Now you want to build one yourself?
 If you want to build one yourself hit me up and i can offer you one or a couple of the interposer boards.  
-I do have stock in Germany and the US so shipping won't take long if you are in the US.
+I do have stock in Germany and the US so shipping won't take long if you are in the US.  
 Contact me at N64freak@gmx.de
 
 
