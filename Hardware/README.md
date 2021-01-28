@@ -58,6 +58,6 @@ Not going into details how to reball such a pcb here. You should be able to find
 First thing to do on the motherboard is to fire up your bga rework station and remove the original CPU.  
 Clean the remaining solder off the motherboard using solder wick and flux. After a cleanup you should have a nice and tidy looking board.
 The final result should look like this:  
-<img src="./Images/IMG_4949.jpg" alt="reballed" width="100%"/>  
+<img src="./../Images/IMG_4949.jpg" alt="reballed" width="100%"/>  
 
 
