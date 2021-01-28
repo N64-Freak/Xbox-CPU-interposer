@@ -72,10 +72,10 @@ As the new CPU is running at a lower core voltage it has to be adjusted.
 Only a few changes have to be done to the resistors on the xbox console. Choose the correct image for the revision of your console.  
   
 <p align="left">
-  <img width="710" height="491" src="./../Images/voltage_1011.png">
+  <img width="400" height="276" src="./../Images/voltage_1011.png">
 </p> 
-<p align="left">
-  <img width="1008" height="756" src="./../Images/voltage_1214.png">
+<p align="right">
+  <img width="400" height="300" src="./../Images/voltage_1214.png">
 </p> 
 
 
