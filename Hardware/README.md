@@ -50,6 +50,7 @@ NOTE: If you have a Rev1.2-1.4 you need to bu an extra 1.5Kohm 0603 resistor to 
 | U2 | 1 | IC NC7SZ32, SOT23-5 | NC7SZ32M5X | ON-Semiconductor | NC7SZ32M5XCT-ND |  
 | U1 | 1 | IC NC7WZ07, SC70 | NC7WZ07P6X | ON-Semiconductor | NC7WZ07P6XCT-ND |  
 | OSC1 | 1 | OSC SG3030B | SG-3030JC 32.7680KB0: ROHS | Epson | SER4329CT-ND |  
+| Con1 | 1 | JST 2pin SMD connector | JST-PH-2P-SMD | JST | --- |  
 | R2E8 | 1 | Res 1.5Kohm, 0603 |  RC0603FR-071K5L  | Yageo |  311-1.50KHRCT-ND  |  
 
  
