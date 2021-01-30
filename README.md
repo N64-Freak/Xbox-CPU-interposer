@@ -27,4 +27,7 @@ If you want to build one yourself hit me up and i can offer you one or a couple 
 I do have stock in Germany and the US so shipping won't take long if you are in the US.  
 Contact me at N64freak@gmx.de
 
+Price for one of the interposer boards is: 20€+shipping  
+If you want more than one message me and we work out a deal.
+
 
