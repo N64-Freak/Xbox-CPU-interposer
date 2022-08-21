@@ -10,7 +10,7 @@ It's compatible with every motherboard revision of the original Xbox but you wan
 * Rev 1.5 doesn't exist!
 
 Update: As the rev1.6 can now officially be upgraded to 128mb ram there's no real reason not to use it!
-Only thing to mention is that the install is a little more comples as one electrolytic capacitor has to be moved.
+Only thing to mention is that the install is a little more complex as one electrolytic capacitor has to be moved.
 
 ## Useability
 The CPU upgraded boards have a LOT more processing power compared to the stock 733Mhz CPU of the original xbox.  
